@@ -5,6 +5,10 @@
 [![Dataset](https://img.shields.io/badge/Dataset-UCI%20WDBC-green?style=flat-square)](http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
 
 ---
+> **Author:** Ms. Mrunalini (Data Science Trainer)
+> 📧 mrunalini0107@gmail.com | 📍 Mumbai – 400095
+
+---
 
 ## 📋 Table of Contents
 
