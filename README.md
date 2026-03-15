@@ -3,7 +3,6 @@
 > 📧 mrunalini0107@gmail.com | 📍 Mumbai – 400095
 
 ---
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/d434e067-c8c5-4b6a-9c8d-5715ed1bdb95" />
 
 
 ### Introduction — 
